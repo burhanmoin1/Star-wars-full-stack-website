@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(108, 206, 206);
+}
+
+#top{
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+.custom-navbar-bg {
+    background-color: #ff4203; /* Replace with your desired color */
+}
+
+.navbar-nav .nav-link:hover {
+    background-color: #ff0000; /* Change to the desired hover color */
+    color: white; /* Change to the desired text color on hover */
