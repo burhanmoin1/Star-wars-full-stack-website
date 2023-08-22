@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: yellow;
+    overflow: hidden;
+    font-family: 'Press Start 2P', cursive;
+    background: url('disgusting.gif') no-repeat center center fixed;
+    background-size: cover;
+
+}
